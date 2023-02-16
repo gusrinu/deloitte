@@ -1,0 +1,14 @@
+Define task?
+  CI Pipeline for? java/.net/js
+
+1. simple spring boot app(maven/gradle)
+2.  understand the requirement to build the pipeline
+ 
+build -> plugin requirements
+           maven
+             git
+
+ on which env jenkins is running? windows
+
+
+security -->basic
